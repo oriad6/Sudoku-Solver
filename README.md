@@ -82,9 +82,9 @@ Please choose one number:
 
 ## 🧑‍💻 Skills Demonstrated
 
-*Python programming: functions, lists, loops, conditionals.  
-*Problem solving using backtracking and constraint satisfaction.  
-*File I/O and formatted printing.  
-*User interaction in algorithmic processes.  
-*Algorithmic thinking in Sudoku solving and board generation.  
+* Python programming: functions, lists, loops, conditionals.  
+* Problem solving using backtracking and constraint satisfaction.  
+* File I/O and formatted printing.  
+* User interaction in algorithmic processes.  
+* Algorithmic thinking in Sudoku solving and board generation.  
 
